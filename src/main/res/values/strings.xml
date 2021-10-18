@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material-Design</string>
+    <string name="home">Home</string>
+    <string name="shop">Shop</string>
+    <string name="delivery">Delivery</string>
+    <string name="account">Account</string>
+</resources>
